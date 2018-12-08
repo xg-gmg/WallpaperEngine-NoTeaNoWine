@@ -1,10 +1,40 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-cmn-Hans">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>wordEveryDay</title>
+
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+
 </head>
 <body>
+<!--main-->
+<div id="main">
+
+    <div id="particles_js"></div>
+
+<a href="javascript:Hitokoto();">
+    <div id="header">
+        <div id="sdiv01" class="sdiv"><p class="sp">无</p></div>
+        <div id="sdiv02" class="sdiv"><p class="sp">茶</p></div>
+        <div id="sdiv03" class="sdiv"><p class="sp">无</p></div>
+        <div id="sdiv04" class="sdiv"><p class="sp">酒</p></div>
+    </div>
+</a>
+
+    <div id="time" class="dtext"></div>
+    <div id="date" class="dtext"></div>
+
+    <div id="hitokoto_out"><p id="hitokoto">Hello World</p></div>
+
+</div><!--end main-->
+
 
 </body>
+<script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script>
+<script type="text/javascript" src="assets/js/functions.js"></script>
+<script src="assets/js/app.js"></script>
+<script src="assets/js/particles.min.js"></script>
 </html>
