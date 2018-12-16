@@ -14,13 +14,15 @@
     font-family: sw_handwrite;
     src: url('../fonts/汉仪尚巍手书.ttf')
 }
+*{
+    margin: 0;
+    padding: 0;
+}
 html,
 body,
 #main{
     height: 100%;
     width: 100%;
-    margin: 0;
-    padding: 0;
 }
 
 #main{
@@ -34,8 +36,8 @@ body,
     overflow: hidden;
 }
 #particles_js{
-    width: 99%;
-    height: 99%;
+    width: 100%;
+    height: 99.666%;
     position: absolute;
     z-index: 1;
 }
