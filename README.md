@@ -25,7 +25,7 @@
 
 
 ### 获取
-- 臾离博客https://blog.xgblack.top/wallpaper-engine-wallpaper-no-tea-no-wine-posted-in-creative-workshop/
+- 臾离博客https://blog.xgblack.cn/wallpaper-engine-wallpaper-no-tea-no-wine-posted-in-creative-workshop/
 - Wallpaper Engine创意工坊直接搜索“无茶无酒”。
 - GitHub https://github.com/xg-gmg/WallpaperEngine-NoTeaNoWine
-- 演示网站https://study.xgblack.top/wallpaper/notea
+- 演示网站https://study.xgblack.cn/wallpaper/notea
